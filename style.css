@@ -87,7 +87,7 @@ section {
          display: flex;
          align-items: center;
          padding: 0 9%;
-         background: url(./images/xd2.jpg) no-repeat;
+         background: url(xd2.jpg) no-repeat;
          background-size: cover;
          background-position: center;
 }
