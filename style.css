@@ -175,10 +175,7 @@ span {
 }
 
 .about-img {
-         box-shadow: 4px 4px 4px 4px #0ff;
-         border-radius: 40px;
-
-         
+         border-radius: 40px;      
 }
 
 .about-img img{
